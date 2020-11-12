@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa94ce39-d03b-4382-8d69-17919ced3bda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kCh4Gw3uCmgvALfFAU7ufGT4NZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa94ce39-d03b-4382-8d69-17919ced3bda" name="Default Changelist" comment="" />
+      <created>1605210287972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605210287972</updated>
+      <workItem from="1605210289225" duration="1099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="182" y="121" width="1536" height="879" key="DiffContextDialog" timestamp="1605211373441">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="182" y="121" width="1536" height="879" key="DiffContextDialog/0.27.1920.1053/1920.108.1368.768@0.27.1920.1053" timestamp="1605211373441" />
+    <state x="689" y="284" width="540" height="524" key="StructurePopup" timestamp="1605210823327">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="689" y="284" width="540" height="524" key="StructurePopup/0.27.1920.1053/1920.108.1368.768@0.27.1920.1053" timestamp="1605210823327" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605211385130">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.108.1368.768@0.27.1920.1053" timestamp="1605211385130" />
+  </component>
+</project>
